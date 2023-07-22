@@ -1,0 +1,36 @@
+/*---------------------------
+	Fonts
+----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700&display=swap');
+
+// fonts
+$base-font-size: 15;
+
+$base-font: 'Open Sans', sans-serif;
+$heading-font: 'Oswald', sans-serif;
+
+
+// color
+$dark-blue: #ee1c25;
+$yellow: #d9dfdc;
+$dark-gray: #444446;
+$light-gray: #6a6a6a;
+$white: #fff;
+$black: #000;
+$dark-red: #930101;
+$light-red: #ffa6aa;
+$light-dark: #747b86;
+$subtext: #777777;
+$btn-light-gray: #d9dfdc;
+
+$dark-heading: #333333;
+$dark-sub-heading: #484848;
+$btn-dark: #700303;
+$footer-color: #272727;
+
+$theme-primary-color: $dark-blue;
+$theme-cta-color:$btn-light-gray; 
+$theme-secondary-color:$dark-blue;
+$text-color: $light-gray;
+$heading-color: $dark-blue;
